@@ -1,6 +1,6 @@
 # NeatFreak: The Ultimate Download Organizer
 
-NeatFreak is a powerful and user-friendly application designed to keep your downloads folder organized automatically. With its intuitive interface and smart categorization system, NeatFreak makes file management a breeze.
+NeatFreak is a powerful and user-friendly application designed to keep your downloads folder organized automatically. With its intuitive interface and smart categorization system, NeatFreak makes file management a breeze. Note, this has only been tested on MacOS, use at your own discretion. No warranty, support etc is given or implied. 
 
 ## Features
 
